@@ -3,7 +3,6 @@ NAME_BONUS = checker
 
 CC = cc
 CFLAGS = -Wall -Wextra -Werror
-AR = ar -rcs
 RM = rm -f
 
 SRC = mandatory/main.c mandatory/parsing.c mandatory/utils/number.c mandatory/utils/split.c mandatory/utils/string.c mandatory/utils/list.c \
